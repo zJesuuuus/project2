@@ -17,6 +17,6 @@ public class TiendaRopa {
         System.out.println(precioTotal);
         System.out.println(descuentoPant * pantalon + descuentoCami + descuento);
         double descuentoAdicional = descuentoCami * ( 1 - 0.5);
-        System.out.println("Descuento camiseta adicional: " + descuentoAdicional);
+        System.out.println(descuentoAdicional);
     }
 }

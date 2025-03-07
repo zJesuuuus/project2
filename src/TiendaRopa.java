@@ -5,9 +5,9 @@ public class TiendaRopa {
         Scanner input = new Scanner(System.in);
         System.out.println("Bienvenido");
         System.out.println("Ingrese cantidad de camisetas:");
-        float camiseta = scan.nextInt();
+        float camiseta = input.nextInt();
         System.out.println("Ingrese cantidad de pantalones:");
-        float pantalon = scan.nextInt();
+        float pantalon = input.nextInt();
         float precio1 = 25;
         float precio2 = 30;
         float descuento = 0.15f;

@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 public class OperadoresArit {
     public static void main(String[] args) {
-        Scanner input = new Scanner(System.in);
+        Scanner scanner = new Scanner(System.in);
         System.out.print("Ingrese el primer número: ");
         int numero1 = scanner.nextInt();
         System.out.print("Ingrese el segundo número: ");

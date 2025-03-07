@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 public class TiendaRopa {
     public static void main(String[] args) {
-        Scanner scan = new Scanner(System.in);
+        Scanner input = new Scanner(System.in);
         System.out.println("Bienvenido");
         System.out.println("Ingrese cantidad de camisetas:");
         float camiseta = scan.nextInt();

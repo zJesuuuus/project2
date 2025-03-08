@@ -14,6 +14,6 @@ public class MayorMenor {
             System.out.println("El primer número es mayor que el segundo y menor que el tercero.");
         } else {
             System.out.println("El primer número no cumple la condicion.");
-        } 
+        }
     }
 }

@@ -5,6 +5,237 @@
     "version": "0.2.0",
     "configurations": [
         {
+            "type": "java",
+            "name": "Sort",
+            "request": "launch",
+            "mainClass": "Sort",
+            "projectName": "project2_1816d02"
+        },
+        {
+            "type": "java",
+            "name": "PromedioArray",
+            "request": "launch",
+            "mainClass": "PromedioArray",
+            "projectName": "project2_1816d02"
+        },
+        {
+            "type": "java",
+            "name": "Matrices",
+            "request": "launch",
+            "mainClass": "Matrices",
+            "projectName": "project2_1816d02"
+        },
+        {
+            "type": "java",
+            "name": "EjercicioQuince",
+            "request": "launch",
+            "mainClass": "EjercicioQuince",
+            "projectName": "project2_1816d02"
+        },
+        {
+            "type": "java",
+            "name": "EjercicioCatorce",
+            "request": "launch",
+            "mainClass": "EjercicioCatorce",
+            "projectName": "project2_1816d02"
+        },
+        {
+            "type": "java",
+            "name": "EjercicioTrece",
+            "request": "launch",
+            "mainClass": "EjercicioTrece",
+            "projectName": "project2_1816d02"
+        },
+        {
+            "type": "java",
+            "name": "EjercicioDoce",
+            "request": "launch",
+            "mainClass": "EjercicioDoce",
+            "projectName": "project2_1816d02"
+        },
+        {
+            "type": "java",
+            "name": "EjercicioOnce",
+            "request": "launch",
+            "mainClass": "EjercicioOnce",
+            "projectName": "project2_1816d02"
+        },
+        {
+            "type": "java",
+            "name": "EjercicioDiez",
+            "request": "launch",
+            "mainClass": "EjercicioDiez",
+            "projectName": "project2_1816d02"
+        },
+        {
+            "type": "java",
+            "name": "EjercicioNueve",
+            "request": "launch",
+            "mainClass": "EjercicioNueve",
+            "projectName": "project2_1816d02"
+        },
+        {
+            "type": "java",
+            "name": "EjercicioSiete",
+            "request": "launch",
+            "mainClass": "EjercicioSiete",
+            "projectName": "project2_1816d02"
+        },
+        {
+            "type": "java",
+            "name": "EjercicoSeis",
+            "request": "launch",
+            "mainClass": "EjercicoSeis",
+            "projectName": "project2_1816d02"
+        },
+        {
+            "type": "java",
+            "name": "EjercicioCinco",
+            "request": "launch",
+            "mainClass": "EjercicioCinco",
+            "projectName": "project2_1816d02"
+        },
+        {
+            "type": "java",
+            "name": "EjercicioCuatro",
+            "request": "launch",
+            "mainClass": "EjercicioCuatro",
+            "projectName": "project2_1816d02"
+        },
+        {
+            "type": "java",
+            "name": "EjercicioTres",
+            "request": "launch",
+            "mainClass": "EjercicioTres",
+            "projectName": "project2_1816d02"
+        },
+        {
+            "type": "java",
+            "name": "EjercicioUno",
+            "request": "launch",
+            "mainClass": "EjercicioUno",
+            "projectName": "project2_1816d02"
+        },
+        {
+            "type": "java",
+            "name": "formatosIngresada",
+            "request": "launch",
+            "mainClass": "HorasIngresada",
+            "projectName": "project2_1816d02"
+        },
+        {
+            "type": "java",
+            "name": "NumPrimos",
+            "request": "launch",
+            "mainClass": "NumPrimos",
+            "projectName": "project2_1816d02"
+        },
+        {
+            "type": "java",
+            "name": "NumAmigos",
+            "request": "launch",
+            "mainClass": "NumAmigos",
+            "projectName": "project2_1816d02"
+        },
+        {
+            "type": "java",
+            "name": "TablasMultiplicarFor",
+            "request": "launch",
+            "mainClass": "TablasMultiplicarFor",
+            "projectName": "project2_1816d02"
+        },
+        {
+            "type": "java",
+            "name": "Factorial",
+            "request": "launch",
+            "mainClass": "Factorial",
+            "projectName": "project2_1816d02"
+        },
+        {
+            "type": "java",
+            "name": "ManuInteractivo",
+            "request": "launch",
+            "mainClass": "ManuInteractivo",
+            "projectName": "project2_1816d02"
+        },
+        {
+            "type": "java",
+            "name": "ContadorPares",
+            "request": "launch",
+            "mainClass": "ContadorPares",
+            "projectName": "project2_1816d02"
+        },
+        {
+            "type": "java",
+            "name": "EjercicioPractico1",
+            "request": "launch",
+            "mainClass": "EjercicioPractico1",
+            "projectName": "project2_1816d02"
+        },
+        {
+            "type": "java",
+            "name": "Practica1",
+            "request": "launch",
+            "mainClass": "Practica1",
+            "projectName": "project2_1816d02"
+        },
+        {
+            "type": "java",
+            "name": "Comparacion",
+            "request": "launch",
+            "mainClass": "Comparacion",
+            "projectName": "project2_1816d02"
+        },
+        {
+            "type": "java",
+            "name": "MayorMenor",
+            "request": "launch",
+            "mainClass": "MayorMenor",
+            "projectName": "project2_1816d02"
+        },
+        {
+            "type": "java",
+            "name": "MediaNum",
+            "request": "launch",
+            "mainClass": "MediaNum",
+            "projectName": "project2_1816d02"
+        },
+        {
+            "type": "java",
+            "name": "OperadoresArit",
+            "request": "launch",
+            "mainClass": "OperadoresArit",
+            "projectName": "project2_1816d02"
+        },
+        {
+            "type": "java",
+            "name": "MsgPerso",
+            "request": "launch",
+            "mainClass": "MsgPerso",
+            "projectName": "project2_1816d02"
+        },
+        {
+            "type": "java",
+            "name": "Banco",
+            "request": "launch",
+            "mainClass": "Banco",
+            "projectName": "project2_1816d02"
+        },
+        {
+            "type": "java",
+            "name": "TiendaRopa",
+            "request": "launch",
+            "mainClass": "TiendaRopa",
+            "projectName": "project2_1816d02"
+        },
+        {
+            "type": "java",
+            "name": "TiendaRopa",
+            "request": "launch",
+            "mainClass": "TiendaRopa",
+            "projectName": "project2_f7fcb528"
+        },
+        {
             "type": "chrome",
             "request": "launch",
             "name": "Launch Chrome against localhost",
